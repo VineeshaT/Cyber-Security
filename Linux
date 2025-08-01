@@ -1,1 +1,21 @@
-
+Command - Description
+echo - Output any text that we provide
+whoami - Find out what user we're currently logged in as!
+ls - listing
+cd - change directory
+cat - concatenate
+pwd - print working directory
+find - to find the file where it is located [find -name *.txt]
+grep - allows us to search the entire contents of files for specific values 
+wc - displays the number of bytes and words in each file [wc -l]
+& - This operator allows you to run commands in the background of your terminal.
+&& - This operator allows you to combine multiple commands together in one line of your terminal.
+> - This operator is a redirector - meaning that we can take the output from a command (such as using cat to output a file) and direct it elsewhere.
+    - echo hey > welcome
+    - cat welcome
+        hey
+>> - This operator does the same function of the > operator but appends the output rather than replacing (meaning nothing is overwritten).
+    - echo hello >> welcome
+    - cat welcome
+        hey
+        hello
