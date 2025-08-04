@@ -1,0 +1,167 @@
+Censys – Search internet-connected devices for exposure and misconfigurations: https://search.censys.io/
+
+Shodan – Discover internet-exposed devices and services: https://www.shodan.io/
+
+VirusTotal – Analyze suspicious files and URLs for malware and threats: https://www.virustotal.com/gui/home/upload
+
+Have I Been Pwned – Check if your email or credentials have been exposed in breaches: https://haveibeenpwned.com/
+
+Google Dorking (Advanced Search Operators) – Use crafted queries to find exposed data: https://www.exploit-db.com/google-hacking-database
+
+MITRE ATT&CK Framework – Knowledge base of adversary tactics and techniques: https://attack.mitre.org/
+
+CVE (Common Vulnerabilities and Exposures) – Public list of known cybersecurity vulnerabilities: https://www.cve.org/
+
+NIST NVD (National Vulnerability Database) – U.S. government repository of security standards and CVEs: https://nvd.nist.gov/
+
+Exploit-DB – Archive of public exploits and proof-of-concept code: https://www.exploit-db.com/
+
+AlienVault OTX – Open threat intelligence platform: https://otx.alienvault.com/
+
+AbuseIPDB – Check IP addresses for malicious activity reports: https://www.abuseipdb.com/
+
+Hybrid Analysis – Malware analysis and sandboxing platform: https://www.hybrid-analysis.com/
+
+Any.Run – Interactive malware sandbox: https://any.run/
+
+CyberChef – Web-based data transformation tool (encoding, decoding, analysis): https://gchq.github.io/CyberChef/
+
+PacketTotal – Analyze PCAP files in the cloud: https://packettotal.com/
+
+URLScan.io – Scan and analyze URLs for threat detection: https://urlscan.io/
+
+ThreatFox – IOC repository of indicators of compromise: https://threatfox.abuse.ch/
+
+GreyNoise – Background internet noise filtering and scanning intelligence: https://www.greynoise.io/
+
+IntelX – Deep and dark web search engine: https://intelx.io/
+
+SecurityTrails – Domain and IP history intelligence: https://securitytrails.com/
+
+BuiltWith – Tech stack and web application fingerprinting: https://builtwith.com/
+
+WhatWeb – Identify technologies behind websites: https://github.com/urbanadventurer/WhatWeb
+
+Wappalyzer – Browser extension to analyze websites’ technologies: https://www.wappalyzer.com/
+
+OSINT Framework – Collection of open-source intelligence tools: https://osintframework.com/
+
+🕵️ OSINT & Reconnaissance Tools:
+theHarvester – Email, domain, and username recon using public sources: https://github.com/laramies/theHarvester
+
+Maltego – Visual link analysis and data mining for OSINT: https://www.maltego.com/
+
+Recon-ng – Web reconnaissance framework: https://github.com/lanmaster53/recon-ng
+
+SpiderFoot – Automate OSINT and threat intelligence collection: https://www.spiderfoot.net/
+
+FOCA – Metadata extraction from documents (Spanish, but widely used): https://www.elevenpaths.com/labstools/foca/index.html
+
+🔍 Network & Packet Analysis:
+Wireshark – Network protocol analyzer to inspect traffic and packets: https://www.wireshark.org/
+
+tcpdump – Command-line packet sniffer for Unix systems: https://www.tcpdump.org/
+
+Nmap – Network scanner and port mapper: https://nmap.org/
+
+Zenmap – GUI for Nmap: https://nmap.org/zenmap/
+
+Netcat (nc) – Swiss army knife for port scanning, banner grabbing, and connections: https://nc110.sourceforge.net/
+
+🧪 Vulnerability Scanning:
+Nessus – Vulnerability assessment and management tool: https://www.tenable.com/products/nessus
+
+OpenVAS / Greenbone – Open-source vulnerability scanning: https://www.greenbone.net/en/
+
+Qualys – Cloud-based vulnerability management: https://www.qualys.com/
+
+Nikto – Web server scanner for outdated software and vulnerabilities: https://github.com/sullo/nikto
+
+⚔️ Exploitation & Penetration Testing:
+Metasploit Framework – Exploitation framework with payload generation: https://www.metasploit.com/
+
+Burp Suite – Web app security testing proxy and scanner: https://portswigger.net/burp
+
+SQLmap – Automated SQL injection and database takeover tool: https://sqlmap.org/
+
+BeEF – Exploit web browsers via JavaScript: https://beefproject.com/
+
+John the Ripper – Password cracker for local hashes: https://www.openwall.com/john/
+
+🧰 Misc & Utility Tools:
+Hashcat – Advanced GPU-based password cracker: https://hashcat.net/hashcat/
+
+KeePassXC – Open-source password manager: https://keepassxc.org/
+
+Ansible – Automation tool often used in security operations: https://www.ansible.com/
+
+Splunk – SIEM and data analytics platform: https://www.splunk.com/
+
+ELK Stack (Elastic, Logstash, Kibana) – Log analysis and SIEM alternative: https://www.elastic.co/what-is/elk-stack
+
+🔍 OSINT (Open-Source Intelligence)
+Tool	Description	Link
+theHarvester	Gathers emails, subdomains, and hosts from public sources	GitHub
+Shodan	Search engine for internet-connected devices	https://www.shodan.io/
+Censys	Internet asset discovery and threat intelligence	https://search.censys.io/
+SpiderFoot	Automates OSINT for domains, IPs, emails, etc.	https://www.spiderfoot.net/
+Maltego	Graph-based link analysis for OSINT investigations	https://www.maltego.com/
+Google Dorking (GHDB)	Search vulnerable data indexed on Google	Exploit DB
+IntelX	Deep/dark web search and leaked data discovery	https://intelx.io/
+FOCA	Extracts metadata from docs for recon	https://www.elevenpaths.com/labstools/foca/index.html
+
+🛡️ Threat Intelligence & Reputation
+Tool	Description	Link
+VirusTotal	Scan files/URLs for malware using multiple AV engines	https://www.virustotal.com/
+Have I Been Pwned	Check if emails/passwords were leaked	https://haveibeenpwned.com/
+ThreatFox	Threat feed for IOCs (IPs, hashes, URLs)	https://threatfox.abuse.ch/
+AlienVault OTX	Community-driven threat intel platform	https://otx.alienvault.com/
+AbuseIPDB	Check if an IP is malicious or abusive	https://www.abuseipdb.com/
+GreyNoise	Context about internet-wide scanners and noise	https://www.greynoise.io/
+
+🌐 Web & Application Security
+Tool	Description	Link
+Burp Suite	Web vulnerability scanner and proxy tool	https://portswigger.net/burp
+SQLmap	Automated tool for finding/exploiting SQL injections	https://sqlmap.org/
+Nikto	Web server vulnerability scanner	https://github.com/sullo/nikto
+WhatWeb	Fingerprints web technologies in use	https://github.com/urbanadventurer/WhatWeb
+Wappalyzer	Identify technologies behind websites	https://www.wappalyzer.com/
+BuiltWith	Analyze tech stacks of websites	https://builtwith.com/
+
+🔐 Vulnerability Management & Scanning
+Tool	Description	Link
+Nessus	Commercial vulnerability scanner	https://www.tenable.com/products/nessus
+OpenVAS / Greenbone	Open-source vulnerability scanner	https://www.greenbone.net/en/
+Qualys	Cloud-based vulnerability scanning platform	https://www.qualys.com/
+CVE Database	Official list of known vulnerabilities	https://www.cve.org/
+NIST NVD	US government CVE and vulnerability repository	https://nvd.nist.gov/
+MITRE ATT&CK	TTP-based framework of adversary behaviors	https://attack.mitre.org/
+
+🧪 Penetration Testing & Exploitation
+Tool	Description	Link
+Metasploit Framework	Exploitation, payloads, and post-exploitation	https://www.metasploit.com/
+BeEF	Browser Exploitation Framework via JavaScript	https://beefproject.com/
+John the Ripper	Password hash cracker	https://www.openwall.com/john/
+Hashcat	Advanced GPU-based password cracking tool	https://hashcat.net/hashcat/
+Hydra	Fast network login cracker	https://github.com/vanhauser-thc/thc-hydra
+
+📡 Network & Packet Analysis
+Tool	Description	Link
+Wireshark	Packet analyzer to inspect network traffic	https://www.wireshark.org/
+tcpdump	Command-line network packet analyzer	https://www.tcpdump.org/
+Nmap	Network discovery, port scanning, and banner grabbing	https://nmap.org/
+Zenmap	GUI front-end for Nmap	https://nmap.org/zenmap/
+Netcat (nc)	Network connection/debugging utility	https://nc110.sourceforge.net/
+
+🖥️ Digital Forensics & Malware Analysis
+Tool	Description	Link
+CyberChef	Data transformation, decoding, and analysis	https://gchq.github.io/CyberChef/
+Any.Run	Real-time malware sandbox environment	https://any.run/
+Hybrid Analysis	Online sandbox for file behavior analysis	https://www.hybrid-analysis.com/
+PacketTotal	PCAP file analysis and sharing	https://packettotal.com/
+
+📊 SIEM, Logging, and Automation
+Tool	Description	Link
+Splunk	Log management and SIEM platform	https://www.splunk.com/
+ELK Stack (Elastic)	Open-source log analysis and SIEM solution	https://www.elastic.co/what-is/elk-stack
+Ansible	IT automation and configuration management	https://www.ansible.com/
